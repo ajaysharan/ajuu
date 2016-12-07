@@ -1,0 +1,36 @@
+form{
+    border:1px solid rgba(69,65,65,1.00);
+    width:50%;
+    margin-left: 250px;
+}
+
+table{
+
+    margin-left:30%;
+    margin-top:5%;
+
+}
+.newupdate{
+
+    
+    width:30%;
+    margin-left:25%;
+}
+.titles{
+   padding:3px;
+    border:2px solid black;
+    width:30%;
+    margin-left:25%;
+}
+
+.uploads{
+    padding:3px;
+    height:200px;
+        border:1px solid black;s
+       width:30%;
+    margin-left:25%;
+}
+img{
+    width:200px;
+    height:250px;
+}
